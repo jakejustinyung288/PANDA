@@ -1,4 +1,4 @@
-#PANDA PROBLEM # 1
+#PANDAS PROBLEM # 1
 
 import pandas as pd 
 cars =pd.read_csv('cars.csv')
